@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://github.com/yuriwendt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuriwendt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriwendt&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" color="#192738" src="https://github-readme-stats.vercel.app/api?username=yuriwendt&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true%22"/>
+  <img height="180em"  color="#192738" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriwendt&layout=compact&langs_count=7&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Yuri-Js" color="#192738" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yuri-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Yuri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
