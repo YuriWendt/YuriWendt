@@ -12,7 +12,7 @@
   <img align="center" alt="Yuri-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Yuri-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
 
-  <img align="right" alt="Yuri-pic" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Feren-eren-yeager-eren-jeager-eren-season4-eren-season4episode16-gif-20974291&psig=AOvVaw1tOFb8dZOjnzV6gcuCzysR&ust=1647546925561000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCTsNu0y_YCFQAAAAAdAAAAABAD">
+  <img align="right" alt="Yuri-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/tmNnUiYvzvUAAAAd/eren-eren-yeager.gif>
 </div>
   
   ##
@@ -24,7 +24,5 @@
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:yuri_wendt@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yuriwendt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/YuriWendt/YuriWendt/blob/output/github-contribution-grid-snake.svg)
  
 </div>
