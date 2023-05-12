@@ -12,7 +12,7 @@
   <img align="center" alt="Yuri-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Yuri-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
 
-  <img align="right" alt="Yuri-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/tmNnUiYvzvUAAAAd/eren-eren-yeager.gif">
+  <img align="right" alt="Yuri-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/yIZbhasDNm0AAAAd/blue-lock-isagi.gif">
 </div>
   
   ##
